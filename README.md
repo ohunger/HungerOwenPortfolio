@@ -42,20 +42,20 @@ Install dependencies:
 Start the development server:
   npm start
 
-Usage
+## Usage
   Customize the content of each section by updating the respective components in the src/components directory. Modify the styling by editing the styles in the src/styles directory.
 
   To enable the contact form's email functionality, update the email configuration in the server-side code (not provided in this repository). Ensure that the server is properly configured to send emails.
 
-Project Structure
+## Project Structure
   The project structure follows a standard React application layout:
 
 public/: Contains static assets and the HTML template.
 src/: Contains the React application source code.
 components/: Includes individual React components for different sections.
-
 index.js: Entry point of the React application.
-Technologies Used
+
+## Technologies Used
 React
 HTML5
 CSS
