@@ -1,0 +1,32 @@
+{
+  "files": {
+    "main.css": "/ohunger/HungerOwenPortfolio/static/css/main.2a4af741.css",
+    "main.js": "/ohunger/HungerOwenPortfolio/static/js/main.8708c683.js",
+    "static/js/787.fb771931.chunk.js": "/ohunger/HungerOwenPortfolio/static/js/787.fb771931.chunk.js",
+    "static/media/color-sharp.png": "/ohunger/HungerOwenPortfolio/static/media/color-sharp.bea361cfef80fefc2d1e.png",
+    "static/media/eebo.png": "/ohunger/HungerOwenPortfolio/static/media/eebo.4fc93c2273f5587b0a51.png",
+    "static/media/color-sharp2.png": "/ohunger/HungerOwenPortfolio/static/media/color-sharp2.c87586c6c2f549cb4aa6.png",
+    "static/media/signlang.png": "/ohunger/HungerOwenPortfolio/static/media/signlang.9d6c7bde41266a7c34d3.png",
+    "static/media/CentraNo2-Bold.ttf": "/ohunger/HungerOwenPortfolio/static/media/CentraNo2-Bold.2faff7f7d3fc92a2fcd9.ttf",
+    "static/media/CentraNo2-Medium.ttf": "/ohunger/HungerOwenPortfolio/static/media/CentraNo2-Medium.f94be5b326d78bb32b95.ttf",
+    "static/media/CentraNo2-Book.ttf": "/ohunger/HungerOwenPortfolio/static/media/CentraNo2-Book.2b143fa4b734a3584043.ttf",
+    "static/media/blendify.png": "/ohunger/HungerOwenPortfolio/static/media/blendify.754e9a44b0c4803a74b9.png",
+    "static/media/footer-bg.png": "/ohunger/HungerOwenPortfolio/static/media/footer-bg.7bd67c0f73571d0acc02.png",
+    "static/media/revicons.eot": "/ohunger/HungerOwenPortfolio/static/media/revicons.a77de540a38981833f9e.eot",
+    "static/media/revicons.ttf": "/ohunger/HungerOwenPortfolio/static/media/revicons.57fd05d4ae650374c8de.ttf",
+    "static/media/revicons.woff": "/ohunger/HungerOwenPortfolio/static/media/revicons.e8746a624ed098489406.woff",
+    "static/media/nav-icon3.svg": "/ohunger/HungerOwenPortfolio/static/media/nav-icon3.08b285abb8e118b52637efa5d65c5367.svg",
+    "index.html": "/ohunger/HungerOwenPortfolio/index.html",
+    "static/media/nav-icon1.svg": "/ohunger/HungerOwenPortfolio/static/media/nav-icon1.721d5414c26365f117e71d46b6641cb2.svg",
+    "static/media/arrow2.svg": "/ohunger/HungerOwenPortfolio/static/media/arrow2.3d9522b6fd8f2464b7200ebf2c1bb09a.svg",
+    "static/media/arrow1.svg": "/ohunger/HungerOwenPortfolio/static/media/arrow1.0c89b5b635adf255c2822c630aaa6ccf.svg",
+    "static/media/nav-icon2.svg": "/ohunger/HungerOwenPortfolio/static/media/nav-icon2.178f497aa17b70c42df2a1a8c926ed01.svg",
+    "main.2a4af741.css.map": "/ohunger/HungerOwenPortfolio/static/css/main.2a4af741.css.map",
+    "main.8708c683.js.map": "/ohunger/HungerOwenPortfolio/static/js/main.8708c683.js.map",
+    "787.fb771931.chunk.js.map": "/ohunger/HungerOwenPortfolio/static/js/787.fb771931.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2a4af741.css",
+    "static/js/main.8708c683.js"
+  ]
+}
