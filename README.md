@@ -34,16 +34,13 @@ This repository contains the source code for my personal portfolio website, buil
 
 ## Installation
 
-
 Install dependencies:
   npm install
 Start the development server:
   npm start
 
 ## Usage
-  Customize the content of each section by updating the respective components in the src/components directory. Modify the styling by editing the styles in the src/styles directory.
-
-  To enable the contact form's email functionality, update the email configuration in the server-side code (not provided in this repository). Ensure that the server is properly configured to send emails.
+  Customize the content of each section by updating component in the src/components directory. Modify the styling by editing the styles in the src/styles directory.
 
 ## Project Structure
   The project structure follows a standard React application layout:
