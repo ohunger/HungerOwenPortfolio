@@ -40,6 +40,9 @@ Additional files- Newsletter.js I had an idea to implement but was kind of a was
 
 ## Installation
 
+### CD into personal-portfolio, not my-portfolio. Sorry I messed up in github.
+PERSONAL-PORTFOLIO!
+
 Install dependencies:
   npm install
 Start the development server:
