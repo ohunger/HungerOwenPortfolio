@@ -9,8 +9,6 @@ This repository contains the source code for my personal portfolio website, buil
 - [Usage](#usage)
 - [Project Structure](#project-structure)
 - [Technologies Used](#technologies-used)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Features
 
