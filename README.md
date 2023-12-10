@@ -1,5 +1,7 @@
 # Personal Portfolio Website
 
+![Portfolio Image](./app.png) <!-- Replace `path/to/your/image.jpg` with the actual path to your image -->
+
 This repository contains the source code for my personal portfolio website, built using React. This website showcases my projects, skills, and provides a way for visitors to contact me. The application features various components, including an intro section, project section, navigation bar, skills section, and a contact me section that allows users to send emails directly to me.
 
 ## Table of Contents
