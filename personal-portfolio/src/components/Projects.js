@@ -19,7 +19,7 @@ export const Projects = () => {
     },
     {
       title: "Blendify",
-      description: "Song recommendations Webapp for DJ's build on spotify API.",
+      description: "Song recommendations Webapp for DJ's built on spotify API.",
       imgUrl: projImg3,
       linkTo: "https://github.com/connorsavage/Blendify/",
     },
