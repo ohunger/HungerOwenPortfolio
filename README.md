@@ -15,8 +15,10 @@ This repository contains the source code for my personal portfolio website, buil
 **1. Intro Section**
    - Provides a brief introduction about me.
    - Showcases my personal and professional background.
+   - Utilized a lot of new css libraries that I thought were cool, kind of wasted alot of time here if I am being honest, learned how to animate stuff. I feel like I got a lot stronger at frontend during this project though.
 
 **2. Project Section**
+   - SKELETON CODE, IT WORKS, but haven't uploaded my projects yet. advanced css here
    - Displays a collection of my projects.
    - Each project includes a title, description, and a link to the project repository or live demo.
 
